@@ -5,5 +5,6 @@ public class MyTest {
 		System.out.println("初始化");
 		System.out.println("第一次提交");
 		System.out.println("第二次提交");
+		System.out.println("第三次提交");
 	}
 }
