@@ -7,6 +7,5 @@ public class MyTest {
 		System.out.println("第二次提交");
 		System.out.println("第3.3提交");
 		System.out.println("ljf第一次提交");
-		
 	}
 }
